@@ -19,7 +19,7 @@ handleSubmit(event){
 	alert(`
 	____ข้อมูล____
 	จำนวนเอกสาร : ${sheednumrow}
-	ชื่อ : ${name} 
+	ชื่อ : ${name}
     อีเมล : ${email}
 	อายุ : ${age}
 	ที่อยู่ : ${address}
